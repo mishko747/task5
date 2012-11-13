@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseStackDll", "UseStackDll.vcxproj", "{8C322A2E-0549-4096-ADBD-7005261856F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack", "..\Stack\Stack.vcxproj", "{6A83B02C-1DFB-4594-8846-2BD29DFFCD89}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseStackLib", "..\UseStackLib\UseStackLib.vcxproj", "{43089863-FC01-461E-B5DD-8971AF3DFB61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C322A2E-0549-4096-ADBD-7005261856F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C322A2E-0549-4096-ADBD-7005261856F4}.Debug|Win32.Build.0 = Debug|Win32
+		{8C322A2E-0549-4096-ADBD-7005261856F4}.Release|Win32.ActiveCfg = Release|Win32
+		{8C322A2E-0549-4096-ADBD-7005261856F4}.Release|Win32.Build.0 = Release|Win32
+		{6A83B02C-1DFB-4594-8846-2BD29DFFCD89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6A83B02C-1DFB-4594-8846-2BD29DFFCD89}.Debug|Win32.Build.0 = Debug|Win32
+		{6A83B02C-1DFB-4594-8846-2BD29DFFCD89}.Release|Win32.ActiveCfg = Release|Win32
+		{6A83B02C-1DFB-4594-8846-2BD29DFFCD89}.Release|Win32.Build.0 = Release|Win32
+		{43089863-FC01-461E-B5DD-8971AF3DFB61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43089863-FC01-461E-B5DD-8971AF3DFB61}.Debug|Win32.Build.0 = Debug|Win32
+		{43089863-FC01-461E-B5DD-8971AF3DFB61}.Release|Win32.ActiveCfg = Release|Win32
+		{43089863-FC01-461E-B5DD-8971AF3DFB61}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
